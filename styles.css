@@ -1,0 +1,46 @@
+.wa {
+    font-family: 'Pacifico', cursive;
+    font-size:40px;
+    color:mediumspringgreen;
+    text-decoration:underline dotted;
+}
+.s {
+    font-family: 'Mali', cursive;
+    color:mediumblue;
+    font-size:40px;
+    text-decoration:underline overline;
+}
+.cat {
+    font-family: 'Lobster', cursive;
+    color:darkseagreen;
+}
+.mp {
+    font-family: 'Indie Flower', cursive;
+    color:firebrick;
+    font-size:40px;
+    text-decoration:overline dotted;
+}
+.sab {
+    font-family: 'Gloria Hallelujah', cursive;
+    color:darkred;
+    font-size:40px;
+    text-decoration:underline overline wavy;
+}
+.axl {
+    font-family: 'Black And White Picture', sans-serif;
+    color:mediumvioletred;
+    font-size:40px;
+    text-decoration:underline;
+}
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPkWQs08rUN4Ltj4xNo7vHAviHNBMf7dYNjzbRh89EJ8pazyjlA");
+    text-align:center;
+}
+img {
+    width:500px;   
+}
+.rip {
+    color:coral;
+    font-size:40px;
+    text-decoration:dotted underline;
+}
